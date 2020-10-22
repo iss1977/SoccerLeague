@@ -65,4 +65,10 @@ public class Team {
     public Integer compareTo( Team compTeam){
         return 1;
     }
+
+    @Override
+    public boolean equals(Object teamToCompare){
+        teamToCompare = (Team)teamToCompare;
+        return this.getName().equals(((Team) teamToCompare).getName());
+    }
 }
