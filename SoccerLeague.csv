@@ -1,0 +1,1289 @@
+HomeTeam,GuestTeam,GoalsHomeTeam,GoalsGuestTeam
+Sturm Graz,Salzburg,0,2
+Mattersburg,Neustadt,2,0
+Rapid Vienna,Wacker Innsbruck,4,0
+Admira,Ried,0,2
+Wolfsberger AC,Austria Vienna,0,1
+Austria Vienna,Sturm Graz,0,1
+Neustadt,Rapid Vienna,0,1
+Salzburg,Mattersburg,3,2
+Wacker Innsbruck,Admira,1,2
+Ried,Wolfsberger AC,0,2
+Wolfsberger AC,Salzburg,0,2
+Mattersburg,Sturm Graz,3,1
+Rapid Vienna,Austria Vienna,0,3
+Ried,Wacker Innsbruck,2,0
+Admira,Neustadt,4,0
+Sturm Graz,Wolfsberger AC,4,1
+Wacker Innsbruck,Mattersburg,2,1
+Neustadt,Ried,2,3
+Salzburg,Rapid Vienna,0,2
+Austria Vienna,Admira,1,0
+Wolfsberger AC,Mattersburg,0,1
+Admira,Salzburg,4,4
+Rapid Vienna,Sturm Graz,3,0
+Wacker Innsbruck,Neustadt,2,3
+Ried,Austria Vienna,0,1
+Austria Vienna,Wacker Innsbruck,2,0
+Mattersburg,Ried,2,1
+Salzburg,Neustadt,1,1
+Sturm Graz,Admira,3,2
+Wolfsberger AC,Rapid Vienna,1,0
+Admira,Wolfsberger AC,1,1
+Neustadt,Austria Vienna,0,2
+Ried,Sturm Graz,0,1
+Wacker Innsbruck,Salzburg,0,4
+Rapid Vienna,Mattersburg,3,0
+Wolfsberger AC,Neustadt,6,0
+Rapid Vienna,Admira,0,0
+Salzburg,Ried,1,1
+Sturm Graz,Wacker Innsbruck,3,0
+Mattersburg,Austria Vienna,2,4
+Admira,Mattersburg,5,1
+Austria Vienna,Salzburg,0,1
+Neustadt,Sturm Graz,1,1
+Wacker Innsbruck,Wolfsberger AC,0,1
+Ried,Rapid Vienna,0,2
+Austria Vienna,Wolfsberger AC,1,1
+Neustadt,Mattersburg,0,0
+Ried,Admira,1,1
+Wacker Innsbruck,Rapid Vienna,0,2
+Salzburg,Sturm Graz,3,2
+Wolfsberger AC,Ried,2,5
+Admira,Wacker Innsbruck,4,1
+Mattersburg,Salzburg,1,3
+Sturm Graz,Austria Vienna,1,1
+Rapid Vienna,Neustadt,1,1
+Salzburg,Wolfsberger AC,4,1
+Neustadt,Admira,2,1
+Sturm Graz,Mattersburg,0,0
+Wacker Innsbruck,Ried,1,0
+Austria Vienna,Rapid Vienna,2,0
+Ried,Neustadt,3,1
+Admira,Austria Vienna,4,6
+Mattersburg,Wacker Innsbruck,1,2
+Rapid Vienna,Salzburg,2,0
+Neustadt,Wacker Innsbruck,0,1
+Mattersburg,Wolfsberger AC,1,1
+Salzburg,Admira,5,0
+Sturm Graz,Rapid Vienna,2,1
+Austria Vienna,Ried,6,1
+Admira,Sturm Graz,1,2
+Ried,Mattersburg,6,1
+Wacker Innsbruck,Austria Vienna,0,3
+Neustadt,Salzburg,0,3
+Rapid Vienna,Wolfsberger AC,0,2
+Austria Vienna,Neustadt,3,0
+Wolfsberger AC,Admira,1,1
+Mattersburg,Rapid Vienna,0,3
+Sturm Graz,Ried,3,1
+Salzburg,Wacker Innsbruck,2,0
+Wacker Innsbruck,Sturm Graz,0,3
+Austria Vienna,Mattersburg,3,1
+Neustadt,Wolfsberger AC,2,1
+Ried,Salzburg,3,1
+Admira,Rapid Vienna,0,2
+Wolfsberger AC,Sturm Graz,1,1
+Wolfsberger AC,Wacker Innsbruck,2,2
+Mattersburg,Admira,3,0
+Rapid Vienna,Ried,4,3
+Sturm Graz,Neustadt,3,1
+Salzburg,Austria Vienna,0,0
+Admira,Ried,0,3
+Wolfsberger AC,Austria Vienna,3,6
+Mattersburg,Neustadt,1,0
+Sturm Graz,Salzburg,1,1
+Rapid Vienna,Wacker Innsbruck,2,1
+Neustadt,Rapid Vienna,1,0
+Salzburg,Mattersburg,7,0
+Wacker Innsbruck,Admira,3,1
+Austria Vienna,Sturm Graz,3,1
+Ried,Wacker Innsbruck,3,0
+Admira,Neustadt,1,2
+Mattersburg,Sturm Graz,0,0
+Rapid Vienna,Austria Vienna,1,2
+Ried,Wolfsberger AC,1,1
+Wacker Innsbruck,Mattersburg,2,0
+Austria Vienna,Admira,4,0
+Neustadt,Ried,0,0
+Salzburg,Rapid Vienna,3,3
+Sturm Graz,Wolfsberger AC,1,3
+Rapid Vienna,Sturm Graz,1,1
+Ried,Austria Vienna,1,3
+Wacker Innsbruck,Neustadt,1,0
+Sturm Graz,Admira,1,2
+Austria Vienna,Wacker Innsbruck,4,0
+Mattersburg,Ried,1,0
+Salzburg,Neustadt,3,1
+Wolfsberger AC,Rapid Vienna,2,1
+Wolfsberger AC,Salzburg,1,1
+Neustadt,Austria Vienna,0,0
+Admira,Wolfsberger AC,0,1
+Rapid Vienna,Mattersburg,2,2
+Ried,Sturm Graz,1,2
+Wacker Innsbruck,Salzburg,2,3
+Wolfsberger AC,Mattersburg,1,0
+Admira,Salzburg,1,1
+Rapid Vienna,Admira,1,1
+Wolfsberger AC,Neustadt,1,1
+Salzburg,Ried,2,2
+Sturm Graz,Wacker Innsbruck,3,2
+Mattersburg,Austria Vienna,0,4
+Admira,Mattersburg,1,0
+Neustadt,Sturm Graz,1,0
+Ried,Rapid Vienna,3,2
+Wacker Innsbruck,Wolfsberger AC,2,3
+Austria Vienna,Salzburg,1,1
+Wacker Innsbruck,Rapid Vienna,1,1
+Austria Vienna,Wolfsberger AC,0,4
+Neustadt,Mattersburg,0,0
+Ried,Admira,4,1
+Salzburg,Sturm Graz,3,0
+Wolfsberger AC,Ried,1,3
+Admira,Wacker Innsbruck,4,3
+Mattersburg,Salzburg,1,2
+Rapid Vienna,Neustadt,2,0
+Sturm Graz,Austria Vienna,1,1
+Sturm Graz,Mattersburg,2,2
+Neustadt,Admira,3,0
+Salzburg,Wolfsberger AC,6,2
+Wacker Innsbruck,Ried,2,0
+Austria Vienna,Rapid Vienna,2,2
+Ried,Neustadt,2,1
+Wolfsberger AC,Sturm Graz,3,0
+Mattersburg,Wacker Innsbruck,1,2
+Rapid Vienna,Salzburg,1,3
+Admira,Austria Vienna,0,2
+Austria Vienna,Ried,3,1
+Mattersburg,Wolfsberger AC,3,1
+Neustadt,Wacker Innsbruck,2,2
+Salzburg,Admira,2,1
+Sturm Graz,Rapid Vienna,1,3
+Admira,Sturm Graz,3,0
+Rapid Vienna,Wolfsberger AC,0,0
+Ried,Mattersburg,1,1
+Wacker Innsbruck,Austria Vienna,0,3
+Neustadt,Salzburg,0,6
+Wolfsberger AC,Admira,0,0
+Austria Vienna,Neustadt,3,1
+Mattersburg,Rapid Vienna,2,0
+Salzburg,Wacker Innsbruck,3,1
+Sturm Graz,Ried,3,1
+Admira,Rapid Vienna,0,2
+Austria Vienna,Mattersburg,4,0
+Neustadt,Wolfsberger AC,2,0
+Ried,Salzburg,2,2
+Wacker Innsbruck,Sturm Graz,2,1
+Wolfsberger AC,Wacker Innsbruck,2,3
+Mattersburg,Admira,0,1
+Rapid Vienna,Ried,3,0
+Salzburg,Austria Vienna,3,0
+Sturm Graz,Neustadt,0,3
+Austria Vienna,Admira,2,0
+Wolfsberger AC,Rapid Vienna,2,2
+Grodig,Ried,0,0
+Neustadt,Salzburg,1,5
+Wacker Innsbruck,Sturm Graz,2,2
+Rapid Vienna,Neustadt,4,0
+Admira,Wacker Innsbruck,1,2
+Ried,Wolfsberger AC,1,0
+Salzburg,Austria Vienna,5,1
+Sturm Graz,Grodig,0,2
+Neustadt,Wolfsberger AC,2,1
+Austria Vienna,Ried,3,3
+Grodig,Admira,7,1
+Wacker Innsbruck,Salzburg,1,1
+Sturm Graz,Rapid Vienna,2,4
+Wolfsberger AC,Wacker Innsbruck,1,1
+Admira,Sturm Graz,1,1
+Ried,Neustadt,1,1
+Salzburg,Grodig,4,1
+Rapid Vienna,Austria Vienna,0,0
+Sturm Graz,Salzburg,1,1
+Austria Vienna,Neustadt,5,0
+Grodig,Wolfsberger AC,4,3
+Wacker Innsbruck,Ried,2,3
+Admira,Rapid Vienna,2,0
+Ried,Sturm Graz,3,0
+Wolfsberger AC,Austria Vienna,1,4
+Neustadt,Wacker Innsbruck,1,1
+Rapid Vienna,Grodig,0,1
+Salzburg,Admira,1,0
+Sturm Graz,Wolfsberger AC,4,1
+Admira,Ried,1,4
+Austria Vienna,Wacker Innsbruck,1,1
+Grodig,Neustadt,3,6
+Salzburg,Rapid Vienna,1,1
+Wacker Innsbruck,Rapid Vienna,0,4
+Wolfsberger AC,Admira,3,1
+Austria Vienna,Grodig,2,3
+Neustadt,Sturm Graz,1,3
+Ried,Salzburg,0,5
+Sturm Graz,Austria Vienna,1,2
+Admira,Neustadt,0,3
+Grodig,Wacker Innsbruck,3,3
+Rapid Vienna,Ried,2,0
+Salzburg,Wolfsberger AC,2,2
+Ried,Grodig,4,2
+Admira,Austria Vienna,1,0
+Rapid Vienna,Wolfsberger AC,2,4
+Sturm Graz,Wacker Innsbruck,1,0
+Salzburg,Neustadt,8,1
+Wolfsberger AC,Ried,1,1
+Grodig,Sturm Graz,0,1
+Wacker Innsbruck,Admira,3,3
+Austria Vienna,Salzburg,1,2
+Neustadt,Rapid Vienna,0,0
+Salzburg,Wacker Innsbruck,6,0
+Wolfsberger AC,Neustadt,1,1
+Admira,Grodig,0,4
+Ried,Austria Vienna,1,1
+Rapid Vienna,Sturm Graz,2,2
+Wacker Innsbruck,Wolfsberger AC,1,2
+Neustadt,Ried,3,3
+Sturm Graz,Admira,0,2
+Austria Vienna,Rapid Vienna,0,1
+Grodig,Salzburg,0,3
+Rapid Vienna,Admira,4,2
+Wolfsberger AC,Grodig,1,1
+Ried,Wacker Innsbruck,4,0
+Salzburg,Sturm Graz,1,0
+Neustadt,Austria Vienna,0,3
+Wacker Innsbruck,Neustadt,4,0
+Austria Vienna,Wolfsberger AC,1,0
+Grodig,Rapid Vienna,2,2
+Admira,Salzburg,3,1
+Neustadt,Grodig,0,2
+Ried,Admira,2,2
+Wacker Innsbruck,Austria Vienna,0,5
+Rapid Vienna,Salzburg,2,1
+Sturm Graz,Ried,2,0
+Grodig,Austria Vienna,1,0
+Admira,Wolfsberger AC,3,0
+Sturm Graz,Neustadt,2,3
+Salzburg,Ried,4,0
+Rapid Vienna,Wacker Innsbruck,3,0
+Austria Vienna,Sturm Graz,3,2
+Wolfsberger AC,Salzburg,1,2
+Neustadt,Admira,1,0
+Ried,Rapid Vienna,2,0
+Wacker Innsbruck,Grodig,5,3
+Austria Vienna,Admira,2,2
+Grodig,Ried,3,0
+Wacker Innsbruck,Sturm Graz,0,1
+Wolfsberger AC,Rapid Vienna,2,1
+Wolfsberger AC,Sturm Graz,2,1
+Admira,Wacker Innsbruck,3,0
+Ried,Wolfsberger AC,1,3
+Sturm Graz,Grodig,2,2
+Salzburg,Austria Vienna,4,0
+Rapid Vienna,Neustadt,0,0
+Grodig,Admira,2,1
+Austria Vienna,Ried,1,1
+Neustadt,Wolfsberger AC,1,1
+Sturm Graz,Rapid Vienna,2,0
+Wacker Innsbruck,Salzburg,0,1
+Neustadt,Salzburg,1,5
+Salzburg,Grodig,6,0
+Wolfsberger AC,Wacker Innsbruck,3,2
+Admira,Sturm Graz,1,1
+Ried,Neustadt,2,1
+Rapid Vienna,Austria Vienna,3,1
+Sturm Graz,Salzburg,1,4
+Austria Vienna,Neustadt,1,1
+Grodig,Wolfsberger AC,3,0
+Wacker Innsbruck,Ried,1,1
+Admira,Rapid Vienna,2,1
+Ried,Sturm Graz,2,2
+Wolfsberger AC,Austria Vienna,0,0
+Neustadt,Wacker Innsbruck,1,0
+Rapid Vienna,Grodig,0,0
+Salzburg,Admira,6,1
+Austria Vienna,Wacker Innsbruck,2,1
+Admira,Ried,2,2
+Grodig,Neustadt,1,2
+Sturm Graz,Wolfsberger AC,1,4
+Salzburg,Rapid Vienna,6,3
+Wolfsberger AC,Admira,2,3
+Austria Vienna,Grodig,2,0
+Neustadt,Sturm Graz,2,1
+Ried,Salzburg,1,3
+Wacker Innsbruck,Rapid Vienna,1,1
+Grodig,Wacker Innsbruck,1,1
+Admira,Neustadt,3,0
+Rapid Vienna,Ried,1,0
+Sturm Graz,Austria Vienna,1,1
+Salzburg,Wolfsberger AC,5,0
+Admira,Austria Vienna,0,1
+Rapid Vienna,Wolfsberger AC,3,0
+Ried,Grodig,1,4
+Sturm Graz,Wacker Innsbruck,3,1
+Salzburg,Neustadt,5,0
+Wacker Innsbruck,Admira,0,0
+Wolfsberger AC,Ried,0,2
+Austria Vienna,Salzburg,3,0
+Grodig,Sturm Graz,0,6
+Neustadt,Rapid Vienna,0,3
+Rapid Vienna,Sturm Graz,2,0
+Wolfsberger AC,Neustadt,4,0
+Admira,Grodig,4,0
+Salzburg,Wacker Innsbruck,0,0
+Ried,Austria Vienna,2,2
+Grodig,Salzburg,1,3
+Neustadt,Ried,1,1
+Sturm Graz,Admira,1,1
+Wacker Innsbruck,Wolfsberger AC,0,1
+Austria Vienna,Rapid Vienna,0,1
+Salzburg,Sturm Graz,1,2
+Wolfsberger AC,Grodig,1,2
+Rapid Vienna,Admira,0,0
+Ried,Wacker Innsbruck,1,2
+Neustadt,Austria Vienna,0,2
+Austria Vienna,Wolfsberger AC,3,1
+Admira,Salzburg,2,3
+Sturm Graz,Ried,2,1
+Wacker Innsbruck,Neustadt,3,1
+Grodig,Rapid Vienna,2,2
+Ried,Admira,3,0
+Neustadt,Grodig,1,3
+Rapid Vienna,Salzburg,2,1
+Wacker Innsbruck,Austria Vienna,1,1
+Wolfsberger AC,Sturm Graz,0,1
+Admira,Wolfsberger AC,1,0
+Grodig,Austria Vienna,2,1
+Rapid Vienna,Wacker Innsbruck,2,0
+Salzburg,Ried,4,0
+Sturm Graz,Neustadt,1,2
+Wolfsberger AC,Salzburg,2,0
+Austria Vienna,Sturm Graz,1,2
+Ried,Rapid Vienna,2,5
+Wacker Innsbruck,Grodig,3,3
+Neustadt,Admira,5,2
+Salzburg,Rapid Vienna,6,1
+Admira,Wolfsberger AC,1,4
+Altach,Sturm Graz,1,0
+Ried,Neustadt,3,1
+Austria Vienna,Grodig,1,1
+Wolfsberger AC,Austria Vienna,4,0
+Neustadt,Salzburg,0,5
+Rapid Vienna,Ried,1,0
+Grodig,Sturm Graz,2,1
+Admira,Rapid Vienna,1,1
+Austria Vienna,Altach,0,0
+Ried,Salzburg,0,2
+Sturm Graz,Neustadt,4,2
+Grodig,Wolfsberger AC,0,2
+Neustadt,Austria Vienna,2,2
+Altach,Wolfsberger AC,1,2
+Rapid Vienna,Sturm Graz,1,1
+Ried,Admira,1,1
+Salzburg,Grodig,8,0
+Altach,Admira,0,2
+Rapid Vienna,Altach,0,1
+Wolfsberger AC,Ried,4,1
+Admira,Salzburg,0,3
+Grodig,Neustadt,3,0
+Sturm Graz,Austria Vienna,1,1
+Sturm Graz,Wolfsberger AC,1,2
+Neustadt,Admira,5,4
+Ried,Grodig,2,2
+Salzburg,Altach,5,0
+Austria Vienna,Rapid Vienna,2,2
+Salzburg,Sturm Graz,2,3
+Wolfsberger AC,Neustadt,0,1
+Admira,Austria Vienna,2,1
+Altach,Ried,2,2
+Rapid Vienna,Grodig,2,0
+Austria Vienna,Ried,3,1
+Sturm Graz,Admira,0,2
+Wolfsberger AC,Salzburg,1,0
+Grodig,Altach,3,3
+Neustadt,Rapid Vienna,1,5
+Rapid Vienna,Wolfsberger AC,3,0
+Admira,Grodig,0,0
+Altach,Neustadt,2,0
+Ried,Sturm Graz,0,1
+Salzburg,Austria Vienna,2,3
+Sturm Graz,Altach,2,2
+Wolfsberger AC,Admira,2,1
+Grodig,Austria Vienna,0,0
+Neustadt,Ried,0,1
+Rapid Vienna,Salzburg,1,2
+Austria Vienna,Wolfsberger AC,0,2
+Admira,Altach,0,2
+Sturm Graz,Grodig,1,0
+Ried,Rapid Vienna,1,2
+Salzburg,Neustadt,4,1
+Salzburg,Ried,4,2
+Wolfsberger AC,Grodig,1,2
+Altach,Austria Vienna,1,1
+Rapid Vienna,Admira,0,0
+Neustadt,Sturm Graz,0,0
+Sturm Graz,Rapid Vienna,1,3
+Wolfsberger AC,Altach,0,0
+Admira,Ried,0,0
+Austria Vienna,Neustadt,2,0
+Grodig,Salzburg,2,2
+Austria Vienna,Sturm Graz,0,3
+Ried,Wolfsberger AC,1,0
+Salzburg,Admira,2,0
+Altach,Rapid Vienna,2,0
+Neustadt,Grodig,2,4
+Wolfsberger AC,Sturm Graz,0,2
+Admira,Neustadt,1,1
+Grodig,Ried,0,1
+Rapid Vienna,Austria Vienna,2,3
+Altach,Salzburg,4,1
+Grodig,Rapid Vienna,3,1
+Austria Vienna,Admira,4,0
+Neustadt,Wolfsberger AC,2,0
+Ried,Altach,2,1
+Sturm Graz,Salzburg,1,2
+Ried,Austria Vienna,1,1
+Admira,Sturm Graz,0,2
+Altach,Grodig,3,1
+Rapid Vienna,Neustadt,3,0
+Salzburg,Wolfsberger AC,2,2
+Austria Vienna,Salzburg,2,4
+Grodig,Admira,5,0
+Neustadt,Altach,2,0
+Sturm Graz,Ried,3,1
+Wolfsberger AC,Rapid Vienna,1,1
+Altach,Sturm Graz,2,0
+Admira,Wolfsberger AC,2,1
+Austria Vienna,Grodig,1,0
+Ried,Neustadt,6,0
+Salzburg,Rapid Vienna,1,2
+Rapid Vienna,Ried,3,0
+Altach,Admira,2,0
+Neustadt,Salzburg,0,2
+Wolfsberger AC,Austria Vienna,1,0
+Austria Vienna,Altach,5,2
+Sturm Graz,Neustadt,3,3
+Ried,Salzburg,2,2
+Admira,Rapid Vienna,1,1
+Altach,Wolfsberger AC,1,0
+Neustadt,Austria Vienna,1,0
+Rapid Vienna,Sturm Graz,1,0
+Ried,Admira,2,2
+Salzburg,Grodig,3,1
+Sturm Graz,Austria Vienna,2,1
+Wolfsberger AC,Ried,1,2
+Admira,Salzburg,1,4
+Grodig,Neustadt,1,3
+Rapid Vienna,Altach,1,0
+Sturm Graz,Wolfsberger AC,2,0
+Neustadt,Admira,0,0
+Ried,Grodig,2,1
+Salzburg,Altach,0,1
+Austria Vienna,Rapid Vienna,2,1
+Grodig,Sturm Graz,0,2
+Admira,Austria Vienna,1,1
+Wolfsberger AC,Neustadt,2,0
+Altach,Ried,2,1
+Rapid Vienna,Grodig,4,0
+Salzburg,Sturm Graz,2,1
+Grodig,Wolfsberger AC,2,0
+Austria Vienna,Ried,0,1
+Wolfsberger AC,Salzburg,3,2
+Grodig,Altach,0,1
+Sturm Graz,Admira,3,1
+Neustadt,Rapid Vienna,0,1
+Salzburg,Austria Vienna,3,1
+Admira,Grodig,2,3
+Rapid Vienna,Wolfsberger AC,4,1
+Ried,Sturm Graz,1,2
+Sturm Graz,Altach,5,0
+Wolfsberger AC,Admira,2,0
+Grodig,Austria Vienna,1,1
+Neustadt,Ried,0,1
+Rapid Vienna,Salzburg,3,3
+Altach,Neustadt,3,1
+Ried,Rapid Vienna,0,1
+Admira,Altach,2,2
+Salzburg,Neustadt,6,0
+Sturm Graz,Grodig,2,1
+Austria Vienna,Wolfsberger AC,1,1
+Salzburg,Ried,2,1
+Wolfsberger AC,Grodig,2,1
+Neustadt,Sturm Graz,4,4
+Rapid Vienna,Admira,1,1
+Altach,Austria Vienna,2,0
+Wolfsberger AC,Altach,2,0
+Admira,Ried,1,0
+Austria Vienna,Neustadt,2,1
+Grodig,Salzburg,0,3
+Sturm Graz,Rapid Vienna,2,2
+Austria Vienna,Sturm Graz,0,0
+Neustadt,Grodig,2,4
+Ried,Wolfsberger AC,4,0
+Salzburg,Admira,4,0
+Altach,Rapid Vienna,1,3
+Altach,Salzburg,2,2
+Wolfsberger AC,Sturm Graz,1,0
+Admira,Neustadt,0,0
+Grodig,Ried,3,2
+Rapid Vienna,Austria Vienna,4,1
+Ried,Altach,4,1
+Austria Vienna,Admira,0,1
+Neustadt,Wolfsberger AC,2,0
+Sturm Graz,Salzburg,0,0
+Admira,Sturm Graz,1,2
+Altach,Grodig,2,0
+Rapid Vienna,Neustadt,0,0
+Ried,Austria Vienna,0,2
+Salzburg,Wolfsberger AC,3,0
+Grodig,Rapid Vienna,0,2
+Wolfsberger AC,Rapid Vienna,0,5
+Austria Vienna,Salzburg,1,1
+Grodig,Admira,0,1
+Neustadt,Altach,0,1
+Sturm Graz,Ried,0,0
+Mattersburg,Salzburg,2,1
+Grodig,Altach,2,1
+Rapid Vienna,Ried,3,0
+Sturm Graz,Admira,1,1
+Wolfsberger AC,Austria Vienna,0,2
+Salzburg,Rapid Vienna,1,2
+Admira,Mattersburg,2,1
+Austria Vienna,Altach,3,1
+Ried,Wolfsberger AC,0,0
+Sturm Graz,Grodig,1,1
+Grodig,Austria Vienna,2,2
+Admira,Salzburg,2,2
+Mattersburg,Ried,4,1
+Altach,Sturm Graz,0,1
+Rapid Vienna,Wolfsberger AC,2,1
+Ried,Salzburg,1,4
+Wolfsberger AC,Sturm Graz,0,2
+Altach,Mattersburg,3,1
+Austria Vienna,Rapid Vienna,2,5
+Grodig,Admira,2,3
+Austria Vienna,Mattersburg,5,1
+Wolfsberger AC,Grodig,3,2
+Admira,Ried,3,1
+Salzburg,Altach,2,0
+Sturm Graz,Rapid Vienna,2,2
+Rapid Vienna,Grodig,3,0
+Mattersburg,Wolfsberger AC,1,0
+Ried,Sturm Graz,1,0
+Salzburg,Austria Vienna,2,2
+Altach,Admira,1,2
+Admira,Austria Vienna,0,1
+Grodig,Ried,4,1
+Rapid Vienna,Mattersburg,2,4
+Sturm Graz,Salzburg,2,3
+Wolfsberger AC,Altach,0,2
+Altach,Rapid Vienna,2,0
+Admira,Wolfsberger AC,1,0
+Austria Vienna,Ried,1,1
+Salzburg,Grodig,4,2
+Mattersburg,Sturm Graz,2,0
+Sturm Graz,Austria Vienna,2,0
+Wolfsberger AC,Salzburg,1,1
+Grodig,Mattersburg,1,1
+Ried,Altach,2,0
+Rapid Vienna,Admira,2,0
+Ried,Rapid Vienna,0,1
+Altach,Grodig,1,0
+Austria Vienna,Wolfsberger AC,1,0
+Salzburg,Mattersburg,4,2
+Admira,Sturm Graz,0,1
+Grodig,Sturm Graz,3,0
+Wolfsberger AC,Ried,1,1
+Altach,Austria Vienna,1,2
+Mattersburg,Admira,0,4
+Rapid Vienna,Salzburg,1,2
+Salzburg,Admira,8,0
+Austria Vienna,Grodig,2,1
+Ried,Mattersburg,0,1
+Sturm Graz,Altach,3,1
+Wolfsberger AC,Rapid Vienna,2,1
+Mattersburg,Altach,2,1
+Admira,Grodig,0,0
+Salzburg,Ried,2,1
+Sturm Graz,Wolfsberger AC,2,0
+Rapid Vienna,Austria Vienna,1,2
+Rapid Vienna,Sturm Graz,2,1
+Altach,Salzburg,1,0
+Grodig,Wolfsberger AC,1,0
+Ried,Admira,1,1
+Mattersburg,Austria Vienna,1,2
+Austria Vienna,Salzburg,1,1
+Wolfsberger AC,Mattersburg,2,1
+Admira,Altach,1,1
+Sturm Graz,Ried,3,2
+Grodig,Rapid Vienna,2,1
+Austria Vienna,Admira,1,1
+Altach,Wolfsberger AC,2,1
+Mattersburg,Rapid Vienna,1,6
+Ried,Grodig,1,0
+Salzburg,Sturm Graz,3,1
+Sturm Graz,Mattersburg,0,0
+Wolfsberger AC,Admira,4,0
+Grodig,Salzburg,1,1
+Ried,Austria Vienna,4,2
+Rapid Vienna,Altach,3,1
+Salzburg,Wolfsberger AC,1,1
+Admira,Rapid Vienna,2,1
+Altach,Ried,1,3
+Mattersburg,Grodig,0,2
+Austria Vienna,Sturm Graz,2,1
+Wolfsberger AC,Austria Vienna,2,0
+Grodig,Altach,0,3
+Rapid Vienna,Ried,2,1
+Sturm Graz,Admira,1,1
+Mattersburg,Salzburg,0,0
+Austria Vienna,Altach,1,2
+Admira,Mattersburg,1,1
+Ried,Wolfsberger AC,1,0
+Sturm Graz,Grodig,2,0
+Salzburg,Rapid Vienna,2,0
+Altach,Sturm Graz,2,2
+Grodig,Austria Vienna,0,1
+Mattersburg,Ried,3,3
+Rapid Vienna,Wolfsberger AC,3,0
+Admira,Salzburg,1,2
+Ried,Salzburg,1,0
+Wolfsberger AC,Sturm Graz,0,0
+Altach,Mattersburg,1,2
+Grodig,Admira,2,2
+Austria Vienna,Rapid Vienna,0,3
+Austria Vienna,Mattersburg,2,2
+Wolfsberger AC,Grodig,2,0
+Admira,Ried,0,0
+Salzburg,Altach,2,0
+Sturm Graz,Rapid Vienna,0,2
+Ried,Sturm Graz,0,1
+Altach,Admira,1,2
+Mattersburg,Wolfsberger AC,1,1
+Rapid Vienna,Grodig,3,2
+Salzburg,Austria Vienna,4,1
+Wolfsberger AC,Altach,1,0
+Admira,Austria Vienna,0,3
+Grodig,Ried,2,2
+Rapid Vienna,Mattersburg,3,0
+Sturm Graz,Salzburg,0,0
+Salzburg,Grodig,3,0
+Admira,Wolfsberger AC,0,2
+Austria Vienna,Ried,3,1
+Mattersburg,Sturm Graz,1,0
+Altach,Rapid Vienna,0,0
+Wolfsberger AC,Salzburg,1,1
+Grodig,Mattersburg,0,1
+Rapid Vienna,Admira,0,4
+Ried,Altach,0,2
+Sturm Graz,Austria Vienna,1,1
+Austria Vienna,Wolfsberger AC,0,0
+Admira,Sturm Graz,1,0
+Altach,Grodig,1,0
+Salzburg,Mattersburg,2,1
+Ried,Rapid Vienna,1,0
+Grodig,Sturm Graz,1,3
+Wolfsberger AC,Ried,1,0
+Altach,Austria Vienna,2,0
+Mattersburg,Admira,0,3
+Rapid Vienna,Salzburg,1,1
+Sturm Graz,Altach,4,1
+Wolfsberger AC,Rapid Vienna,2,2
+Austria Vienna,Grodig,0,2
+Ried,Mattersburg,1,0
+Salzburg,Admira,1,0
+Salzburg,Ried,2,1
+Admira,Grodig,1,1
+Mattersburg,Altach,0,0
+Sturm Graz,Wolfsberger AC,1,0
+Rapid Vienna,Austria Vienna,1,0
+Mattersburg,Austria Vienna,0,9
+Altach,Salzburg,1,3
+Grodig,Wolfsberger AC,0,1
+Ried,Admira,1,0
+Rapid Vienna,Sturm Graz,2,0
+Grodig,Rapid Vienna,2,0
+Wolfsberger AC,Mattersburg,2,0
+Admira,Altach,2,1
+Sturm Graz,Ried,0,0
+Austria Vienna,Salzburg,0,2
+Austria Vienna,Admira,3,1
+Altach,Wolfsberger AC,1,1
+Ried,Grodig,2,0
+Salzburg,Sturm Graz,1,1
+Mattersburg,Rapid Vienna,0,2
+Wolfsberger AC,Admira,1,2
+Grodig,Salzburg,1,2
+Rapid Vienna,Altach,1,1
+Ried,Austria Vienna,0,5
+Sturm Graz,Mattersburg,1,1
+Admira,Rapid Vienna,1,3
+Altach,Ried,0,0
+Austria Vienna,Sturm Graz,3,0
+Mattersburg,Grodig,2,3
+Salzburg,Wolfsberger AC,1,0
+Rapid Vienna,Ried,5,0
+Altach,Wolfsberger AC,1,0
+Sturm Graz,Salzburg,3,1
+St. Polten,Austria Vienna,1,2
+Mattersburg,Admira,0,1
+Salzburg,Wolfsberger AC,1,1
+Ried,Sturm Graz,1,0
+Altach,Rapid Vienna,1,0
+Austria Vienna,Mattersburg,3,1
+St. Polten,Admira,2,1
+Mattersburg,Sturm Graz,0,2
+Wolfsberger AC,Ried,1,0
+Admira,Altach,1,2
+Salzburg,St. Polten,2,0
+Austria Vienna,Rapid Vienna,1,4
+Ried,Salzburg,0,2
+Altach,St. Polten,3,1
+Mattersburg,Wolfsberger AC,3,1
+Rapid Vienna,Admira,4,0
+Sturm Graz,Austria Vienna,3,1
+St. Polten,Sturm Graz,1,3
+Admira,Ried,1,0
+Salzburg,Mattersburg,3,1
+Wolfsberger AC,Rapid Vienna,1,1
+Austria Vienna,Altach,3,1
+Sturm Graz,Altach,3,1
+Wolfsberger AC,Admira,5,0
+Mattersburg,St. Polten,1,1
+Rapid Vienna,Salzburg,0,0
+Ried,Austria Vienna,1,1
+Sturm Graz,Rapid Vienna,1,1
+Altach,Mattersburg,2,1
+Austria Vienna,Wolfsberger AC,4,1
+St. Polten,Ried,2,3
+Admira,Salzburg,0,4
+Ried,Altach,2,1
+Wolfsberger AC,St. Polten,1,1
+Admira,Sturm Graz,0,3
+Salzburg,Austria Vienna,4,1
+Rapid Vienna,Mattersburg,3,0
+St. Polten,Rapid Vienna,1,1
+Austria Vienna,Admira,1,2
+Mattersburg,Ried,1,1
+Sturm Graz,Wolfsberger AC,3,0
+Altach,Salzburg,0,0
+Wolfsberger AC,Altach,1,2
+Admira,Mattersburg,1,0
+Ried,Rapid Vienna,4,2
+Salzburg,Sturm Graz,0,1
+Austria Vienna,St. Polten,2,1
+Wolfsberger AC,Salzburg,2,2
+Admira,St. Polten,1,1
+Rapid Vienna,Altach,1,1
+Sturm Graz,Ried,1,0
+Mattersburg,Austria Vienna,0,2
+Sturm Graz,Mattersburg,2,2
+Altach,Admira,2,0
+Ried,Wolfsberger AC,0,1
+St. Polten,Salzburg,1,5
+Rapid Vienna,Austria Vienna,0,2
+Admira,Rapid Vienna,1,2
+Wolfsberger AC,Mattersburg,3,0
+Salzburg,Ried,1,0
+St. Polten,Altach,0,1
+Austria Vienna,Sturm Graz,2,0
+Sturm Graz,St. Polten,1,2
+Ried,Admira,2,1
+Rapid Vienna,Wolfsberger AC,0,1
+Altach,Austria Vienna,5,1
+Mattersburg,Salzburg,2,1
+Altach,Sturm Graz,1,1
+Admira,Wolfsberger AC,4,1
+Austria Vienna,Ried,2,0
+St. Polten,Mattersburg,2,2
+Salzburg,Rapid Vienna,2,1
+Ried,St. Polten,1,2
+Mattersburg,Altach,1,2
+Wolfsberger AC,Austria Vienna,0,3
+Rapid Vienna,Sturm Graz,1,2
+Salzburg,Admira,0,1
+Altach,Ried,1,0
+Austria Vienna,Salzburg,1,3
+Mattersburg,Rapid Vienna,1,1
+St. Polten,Wolfsberger AC,0,4
+Sturm Graz,Admira,0,2
+Rapid Vienna,St. Polten,1,0
+Admira,Austria Vienna,0,2
+Ried,Mattersburg,2,1
+Salzburg,Altach,4,1
+Wolfsberger AC,Sturm Graz,0,4
+Altach,Wolfsberger AC,2,1
+Mattersburg,Admira,2,0
+Rapid Vienna,Ried,3,1
+Sturm Graz,Salzburg,0,1
+St. Polten,Austria Vienna,2,1
+Ried,Sturm Graz,0,3
+Austria Vienna,Mattersburg,2,0
+Salzburg,Wolfsberger AC,3,0
+St. Polten,Admira,2,2
+Altach,Rapid Vienna,3,1
+Admira,Altach,1,1
+Wolfsberger AC,Ried,1,0
+Mattersburg,Sturm Graz,1,0
+Salzburg,St. Polten,2,0
+Austria Vienna,Rapid Vienna,1,1
+Sturm Graz,Austria Vienna,0,4
+Altach,St. Polten,1,2
+Mattersburg,Wolfsberger AC,2,1
+Rapid Vienna,Admira,0,0
+Ried,Salzburg,1,6
+Wolfsberger AC,Rapid Vienna,2,1
+Admira,Ried,1,0
+Austria Vienna,Altach,1,3
+Salzburg,Mattersburg,1,0
+St. Polten,Sturm Graz,2,1
+Sturm Graz,Altach,3,0
+Wolfsberger AC,Admira,1,1
+Mattersburg,St. Polten,1,0
+Ried,Austria Vienna,0,3
+Rapid Vienna,Salzburg,0,1
+St. Polten,Ried,1,0
+Admira,Salzburg,1,1
+Altach,Mattersburg,3,0
+Austria Vienna,Wolfsberger AC,3,0
+Sturm Graz,Rapid Vienna,2,1
+Rapid Vienna,Mattersburg,1,1
+Wolfsberger AC,St. Polten,1,0
+Admira,Sturm Graz,1,0
+Ried,Altach,2,0
+Salzburg,Austria Vienna,5,0
+St. Polten,Rapid Vienna,1,1
+Austria Vienna,Admira,0,2
+Mattersburg,Ried,2,1
+Sturm Graz,Wolfsberger AC,4,0
+Altach,Salzburg,0,5
+Ried,Rapid Vienna,3,0
+Wolfsberger AC,Altach,0,0
+Admira,Mattersburg,0,2
+Austria Vienna,St. Polten,1,2
+Salzburg,Sturm Graz,1,0
+Wolfsberger AC,Salzburg,0,2
+Admira,St. Polten,2,0
+Rapid Vienna,Altach,3,0
+Sturm Graz,Ried,1,0
+Mattersburg,Austria Vienna,0,3
+Sturm Graz,Mattersburg,0,2
+Altach,Admira,0,0
+Ried,Wolfsberger AC,1,1
+St. Polten,Salzburg,1,2
+Rapid Vienna,Austria Vienna,0,2
+Austria Vienna,Sturm Graz,4,1
+Wolfsberger AC,Mattersburg,2,2
+Salzburg,Ried,1,1
+St. Polten,Altach,3,3
+Admira,Rapid Vienna,3,2
+Mattersburg,Salzburg,2,1
+Rapid Vienna,Wolfsberger AC,4,0
+Ried,Admira,1,0
+Sturm Graz,St. Polten,3,2
+Altach,Austria Vienna,1,1
+Salzburg,Rapid Vienna,1,0
+Admira,Wolfsberger AC,3,2
+Austria Vienna,Ried,3,0
+St. Polten,Mattersburg,1,0
+Altach,Sturm Graz,1,2
+Ried,St. Polten,1,1
+Wolfsberger AC,Austria Vienna,2,1
+Mattersburg,Altach,1,0
+Salzburg,Admira,2,0
+Rapid Vienna,Sturm Graz,1,0
+Altach,Ried,0,2
+Austria Vienna,Salzburg,2,3
+Mattersburg,Rapid Vienna,1,3
+St. Polten,Wolfsberger AC,1,1
+Sturm Graz,Admira,2,1
+Wolfsberger AC,Sturm Graz,1,0
+Admira,Austria Vienna,1,6
+Rapid Vienna,St. Polten,2,1
+Ried,Mattersburg,2,3
+Salzburg,Altach,1,0
+Rapid Vienna,Mattersburg,2,2
+Wolfsberger AC,Salzburg,0,2
+LASK Linz,Admira,3,0
+Altach,Austria Vienna,3,0
+Sturm Graz,St. Polten,3,2
+Salzburg,LASK Linz,1,1
+Mattersburg,Wolfsberger AC,1,0
+St. Polten,Rapid Vienna,1,4
+Austria Vienna,Sturm Graz,2,3
+Admira,Altach,4,1
+LASK Linz,St. Polten,2,0
+Salzburg,Admira,5,1
+Wolfsberger AC,Altach,1,0
+Rapid Vienna,Austria Vienna,2,2
+Mattersburg,Sturm Graz,2,3
+Altach,Salzburg,0,1
+Austria Vienna,LASK Linz,2,0
+St. Polten,Mattersburg,0,0
+Sturm Graz,Wolfsberger AC,2,1
+Admira,Rapid Vienna,3,1
+Rapid Vienna,Sturm Graz,1,2
+Wolfsberger AC,Admira,2,0
+LASK Linz,Altach,0,0
+Salzburg,St. Polten,5,1
+Mattersburg,Austria Vienna,1,3
+Wolfsberger AC,St. Polten,2,1
+Rapid Vienna,LASK Linz,1,0
+Altach,Mattersburg,1,0
+Sturm Graz,Salzburg,1,0
+Admira,Austria Vienna,1,3
+LASK Linz,Sturm Graz,2,1
+Austria Vienna,Wolfsberger AC,2,2
+Mattersburg,Admira,0,5
+St. Polten,Altach,1,2
+Salzburg,Rapid Vienna,2,2
+Altach,Rapid Vienna,2,2
+Wolfsberger AC,LASK Linz,0,0
+Admira,Sturm Graz,2,1
+Mattersburg,Salzburg,1,2
+Austria Vienna,St. Polten,5,1
+Rapid Vienna,Wolfsberger AC,4,2
+LASK Linz,Mattersburg,2,2
+St. Polten,Admira,1,1
+Sturm Graz,Altach,0,0
+Salzburg,Austria Vienna,0,0
+St. Polten,Sturm Graz,0,3
+Admira,LASK Linz,4,2
+Mattersburg,Rapid Vienna,0,1
+Austria Vienna,Altach,2,0
+Salzburg,Wolfsberger AC,2,1
+LASK Linz,Salzburg,1,3
+Wolfsberger AC,Mattersburg,2,2
+Altach,Admira,2,2
+Rapid Vienna,St. Polten,1,0
+Sturm Graz,Austria Vienna,3,0
+Sturm Graz,Mattersburg,3,2
+Altach,Wolfsberger AC,3,2
+St. Polten,LASK Linz,0,1
+Admira,Salzburg,1,1
+Austria Vienna,Rapid Vienna,0,1
+Rapid Vienna,Admira,1,0
+LASK Linz,Austria Vienna,2,2
+Mattersburg,St. Polten,1,1
+Salzburg,Altach,2,0
+Wolfsberger AC,Sturm Graz,0,2
+Sturm Graz,Rapid Vienna,0,0
+Admira,Wolfsberger AC,0,0
+Altach,LASK Linz,2,4
+Austria Vienna,Mattersburg,1,3
+St. Polten,Salzburg,1,3
+LASK Linz,Rapid Vienna,1,2
+Austria Vienna,Admira,2,3
+Mattersburg,Altach,1,0
+St. Polten,Wolfsberger AC,0,0
+Salzburg,Sturm Graz,5,0
+Sturm Graz,LASK Linz,1,0
+Admira,Mattersburg,2,0
+Altach,St. Polten,3,0
+Wolfsberger AC,Austria Vienna,1,2
+Rapid Vienna,Salzburg,2,3
+Sturm Graz,Admira,6,1
+LASK Linz,Wolfsberger AC,2,0
+Salzburg,Mattersburg,2,0
+St. Polten,Austria Vienna,1,0
+Rapid Vienna,Altach,1,2
+Wolfsberger AC,Rapid Vienna,0,0
+Admira,St. Polten,1,0
+Altach,Sturm Graz,1,2
+Mattersburg,LASK Linz,1,0
+Austria Vienna,Salzburg,1,1
+Rapid Vienna,Mattersburg,2,2
+LASK Linz,Admira,2,1
+Sturm Graz,St. Polten,3,2
+Altach,Austria Vienna,1,0
+Wolfsberger AC,Salzburg,0,0
+Salzburg,LASK Linz,0,0
+Admira,Altach,3,1
+Mattersburg,Wolfsberger AC,5,1
+St. Polten,Rapid Vienna,0,5
+Austria Vienna,Sturm Graz,1,0
+Mattersburg,Sturm Graz,1,0
+Wolfsberger AC,Altach,0,0
+LASK Linz,St. Polten,2,1
+Salzburg,Admira,2,1
+Rapid Vienna,Austria Vienna,1,1
+Altach,Salzburg,0,1
+Austria Vienna,LASK Linz,1,3
+St. Polten,Mattersburg,0,3
+Sturm Graz,Wolfsberger AC,0,1
+Admira,Rapid Vienna,2,1
+Rapid Vienna,Sturm Graz,1,1
+Wolfsberger AC,Admira,1,3
+LASK Linz,Altach,2,0
+Mattersburg,Austria Vienna,2,1
+Salzburg,St. Polten,4,0
+Admira,Austria Vienna,2,1
+Wolfsberger AC,St. Polten,0,1
+Altach,Mattersburg,1,1
+Rapid Vienna,LASK Linz,2,0
+Sturm Graz,Salzburg,2,4
+LASK Linz,Sturm Graz,0,2
+Austria Vienna,Wolfsberger AC,2,0
+Mattersburg,Admira,3,2
+St. Polten,Altach,1,2
+Salzburg,Rapid Vienna,1,0
+Altach,Rapid Vienna,0,0
+Wolfsberger AC,LASK Linz,0,3
+Admira,Sturm Graz,2,4
+Austria Vienna,St. Polten,4,0
+Mattersburg,Salzburg,2,2
+Rapid Vienna,Wolfsberger AC,5,1
+LASK Linz,Mattersburg,3,1
+St. Polten,Admira,1,2
+Sturm Graz,Altach,1,0
+Salzburg,Austria Vienna,5,0
+Admira,LASK Linz,0,1
+Austria Vienna,Altach,2,1
+Salzburg,Wolfsberger AC,2,0
+St. Polten,Sturm Graz,1,5
+Mattersburg,Rapid Vienna,2,4
+Sturm Graz,Austria Vienna,0,2
+Wolfsberger AC,Mattersburg,0,2
+Altach,Admira,1,2
+Rapid Vienna,St. Polten,2,1
+LASK Linz,Salzburg,1,0
+Sturm Graz,Mattersburg,3,0
+Altach,Wolfsberger AC,2,1
+St. Polten,LASK Linz,1,3
+Austria Vienna,Rapid Vienna,0,4
+Admira,Salzburg,2,6
+Wolfsberger AC,Sturm Graz,2,1
+LASK Linz,Austria Vienna,1,0
+Mattersburg,St. Polten,1,1
+Salzburg,Altach,3,1
+Rapid Vienna,Admira,4,1
+Austria Vienna,Mattersburg,2,3
+Admira,Wolfsberger AC,4,2
+Altach,LASK Linz,0,2
+Sturm Graz,Rapid Vienna,4,2
+St. Polten,Salzburg,0,2
+LASK Linz,Rapid Vienna,0,2
+Austria Vienna,Admira,0,0
+Mattersburg,Altach,0,1
+St. Polten,Wolfsberger AC,0,1
+Salzburg,Sturm Graz,4,1
+Sturm Graz,LASK Linz,3,1
+Admira,Mattersburg,1,1
+Altach,St. Polten,1,3
+Rapid Vienna,Salzburg,1,4
+Wolfsberger AC,Austria Vienna,2,1
+LASK Linz,Wolfsberger AC,1,3
+Rapid Vienna,Altach,4,1
+Salzburg,Mattersburg,1,0
+St. Polten,Austria Vienna,2,0
+Sturm Graz,Admira,2,0
+Wolfsberger AC,Rapid Vienna,0,0
+Admira,St. Polten,0,2
+Altach,Sturm Graz,0,0
+Austria Vienna,Salzburg,4,0
+Mattersburg,LASK Linz,2,1
+Neustadt,St. Polten,0,2
+St. Polten,Neustadt,1,1
+Austria Vienna,Wacker Innsbruck,2,1
+Altach,Mattersburg,2,3
+Sturm Graz,Hartberg,3,2
+Admira,Rapid Vienna,0,3
+Salzburg,LASK Linz,3,1
+St. Polten,Wolfsberger AC,4,3
+Mattersburg,Salzburg,0,2
+Rapid Vienna,Altach,1,1
+Wacker Innsbruck,Sturm Graz,2,3
+Wolfsberger AC,Austria Vienna,1,0
+Hartberg,Admira,0,1
+LASK Linz,St. Polten,0,0
+Altach,Wacker Innsbruck,1,2
+Hartberg,Mattersburg,4,2
+Salzburg,Austria Vienna,2,0
+Admira,LASK Linz,0,1
+Rapid Vienna,Wolfsberger AC,0,0
+St. Polten,Sturm Graz,2,0
+Mattersburg,Wolfsberger AC,0,6
+Salzburg,Hartberg,2,0
+Wacker Innsbruck,St. Polten,0,2
+Austria Vienna,Admira,4,0
+LASK Linz,Rapid Vienna,2,1
+Sturm Graz,Altach,1,1
+Wolfsberger AC,Sturm Graz,1,1
+Altach,Salzburg,2,3
+St. Polten,Austria Vienna,0,0
+Admira,Mattersburg,0,0
+Hartberg,LASK Linz,0,1
+Rapid Vienna,Wacker Innsbruck,2,1
+Altach,St. Polten,1,2
+Austria Vienna,Mattersburg,2,1
+Wacker Innsbruck,Hartberg,2,1
+LASK Linz,Wolfsberger AC,2,0
+Salzburg,Admira,3,1
+Sturm Graz,Rapid Vienna,1,1
+Admira,Sturm Graz,2,3
+Hartberg,Altach,2,1
+St. Polten,Salzburg,1,3
+Wolfsberger AC,Wacker Innsbruck,3,1
+Mattersburg,LASK Linz,1,3
+Rapid Vienna,Austria Vienna,0,1
+Altach,Wolfsberger AC,0,1
+St. Polten,Hartberg,3,0
+Sturm Graz,Mattersburg,1,2
+Austria Vienna,LASK Linz,0,3
+Wacker Innsbruck,Admira,1,3
+Salzburg,Rapid Vienna,2,1
+Wolfsberger AC,Salzburg,1,4
+Admira,Altach,2,4
+Rapid Vienna,St. Polten,0,2
+Hartberg,Austria Vienna,0,1
+Mattersburg,Wacker Innsbruck,2,1
+LASK Linz,Sturm Graz,0,0
+Wolfsberger AC,Hartberg,3,4
+Altach,Austria Vienna,2,0
+St. Polten,Admira,0,0
+Rapid Vienna,Mattersburg,1,0
+Wacker Innsbruck,LASK Linz,1,0
+Sturm Graz,Salzburg,1,2
+Hartberg,Rapid Vienna,3,0
+LASK Linz,Altach,1,1
+Salzburg,Wacker Innsbruck,1,1
+Admira,Wolfsberger AC,0,0
+Mattersburg,St. Polten,2,0
+Austria Vienna,Sturm Graz,1,1
+Hartberg,Sturm Graz,2,0
+Mattersburg,Altach,1,1
+Wacker Innsbruck,Austria Vienna,0,0
+Wolfsberger AC,St. Polten,1,0
+Rapid Vienna,Admira,2,0
+LASK Linz,Salzburg,3,3
+Admira,Hartberg,2,3
+St. Polten,LASK Linz,2,2
+Sturm Graz,Wacker Innsbruck,1,1
+Austria Vienna,Wolfsberger AC,2,3
+Salzburg,Mattersburg,2,1
+Altach,Rapid Vienna,2,2
+LASK Linz,Admira,5,1
+Sturm Graz,St. Polten,0,0
+Wacker Innsbruck,Altach,1,0
+Wolfsberger AC,Rapid Vienna,3,1
+Mattersburg,Hartberg,1,2
+Austria Vienna,Salzburg,0,2
+Wolfsberger AC,Mattersburg,2,2
+Admira,Austria Vienna,1,2
+Hartberg,Salzburg,0,4
+Altach,Sturm Graz,0,2
+St. Polten,Wacker Innsbruck,2,0
+Rapid Vienna,LASK Linz,0,1
+Austria Vienna,St. Polten,2,0
+LASK Linz,Hartberg,3,3
+Mattersburg,Admira,2,2
+Salzburg,Altach,1,0
+Wacker Innsbruck,Rapid Vienna,0,1
+Sturm Graz,Wolfsberger AC,3,0
+Wolfsberger AC,LASK Linz,1,1
+Admira,Salzburg,2,2
+St. Polten,Altach,2,1
+Hartberg,Wacker Innsbruck,2,2
+Mattersburg,Austria Vienna,2,1
+Rapid Vienna,Sturm Graz,0,0
+LASK Linz,Mattersburg,2,1
+Sturm Graz,Admira,3,0
+Wacker Innsbruck,Wolfsberger AC,0,0
+Altach,Hartberg,6,1
+Salzburg,St. Polten,5,1
+Austria Vienna,Rapid Vienna,6,1
+LASK Linz,Austria Vienna,2,0
+Wolfsberger AC,Altach,0,0
+Admira,Wacker Innsbruck,3,0
+Hartberg,St. Polten,1,1
+Mattersburg,Sturm Graz,1,1
+Rapid Vienna,Salzburg,2,0
+Altach,Admira,0,1
+Salzburg,Wolfsberger AC,3,0
+St. Polten,Rapid Vienna,0,4
+Austria Vienna,Hartberg,4,2
+Sturm Graz,LASK Linz,0,3
+Wacker Innsbruck,Mattersburg,0,1
+Admira,St. Polten,3,2
+Austria Vienna,Altach,1,3
+Hartberg,Wolfsberger AC,1,1
+LASK Linz,Wacker Innsbruck,2,0
+Mattersburg,Rapid Vienna,2,1
+Salzburg,Sturm Graz,0,0
+Wolfsberger AC,Admira,2,2
+Altach,LASK Linz,1,2
+Rapid Vienna,Hartberg,2,2
+St. Polten,Mattersburg,0,1
+Sturm Graz,Austria Vienna,1,0
+Wacker Innsbruck,Salzburg,0,2
+Altach,Mattersburg,2,1
+Hartberg,Wacker Innsbruck,0,2
+Rapid Vienna,Admira,3,0
+Wolfsberger AC,LASK Linz,0,3
+Sturm Graz,St. Polten,0,1
+Salzburg,Austria Vienna,5,1
+Admira,Altach,1,1
+Mattersburg,Hartberg,3,0
+Wacker Innsbruck,Rapid Vienna,0,2
+Austria Vienna,Sturm Graz,0,1
+St. Polten,Wolfsberger AC,1,3
+LASK Linz,Salzburg,0,2
+Hartberg,Altach,0,1
+Rapid Vienna,Mattersburg,2,1
+Wacker Innsbruck,Admira,1,3
+Wolfsberger AC,Austria Vienna,1,1
+LASK Linz,St. Polten,0,0
+Salzburg,Sturm Graz,3,1
+Admira,Hartberg,2,1
+Altach,Rapid Vienna,2,2
+Mattersburg,Wacker Innsbruck,3,1
+St. Polten,Salzburg,1,1
+Sturm Graz,Wolfsberger AC,1,2
+Austria Vienna,LASK Linz,2,2
+Admira,Mattersburg,0,2
+Hartberg,Rapid Vienna,2,4
+Wacker Innsbruck,Altach,0,4
+Austria Vienna,St. Polten,2,2
+LASK Linz,Sturm Graz,1,2
+Salzburg,Wolfsberger AC,3,1
+Altach,Wacker Innsbruck,1,4
+Mattersburg,Admira,1,1
+Rapid Vienna,Hartberg,3,4
+Wolfsberger AC,Salzburg,2,1
+St. Polten,Austria Vienna,1,2
+Sturm Graz,LASK Linz,2,3
+Admira,Rapid Vienna,3,4
+Mattersburg,Altach,0,0
+Wacker Innsbruck,Hartberg,1,0
+LASK Linz,Wolfsberger AC,3,0
+St. Polten,Sturm Graz,0,1
+Austria Vienna,Salzburg,1,2
+Altach,Admira,2,2
+Hartberg,Mattersburg,2,1
+Rapid Vienna,Wacker Innsbruck,1,0
+Wolfsberger AC,St. Polten,4,0
+Sturm Graz,Austria Vienna,1,3
+Salzburg,LASK Linz,2,1
+Admira,Wacker Innsbruck,3,2
+Altach,Hartberg,3,1
+Mattersburg,Rapid Vienna,1,0
+Austria Vienna,Wolfsberger AC,2,0
+St. Polten,LASK Linz,0,1
+Sturm Graz,Salzburg,1,2
+Hartberg,Admira,3,1
+Rapid Vienna,Altach,1,2
+Wacker Innsbruck,Mattersburg,4,0
+Wolfsberger AC,Sturm Graz,2,1
+LASK Linz,Austria Vienna,5,2
+Salzburg,St. Polten,7,0
+Rapid Vienna,Mattersburg,2,0
+Rapid Vienna,Sturm Graz,1,2
+Sturm Graz,Rapid Vienna,0,1
+Rapid Vienna,Salzburg,0,2
+Admira,Wolfsberger AC,0,3
+Tirol,Austria Vienna,3,1
+LASK Linz,Altach,2,0
+Mattersburg,Hartberg,2,1
+Sturm Graz,St. Polten,3,0
+Altach,Tirol,3,2
+Austria Vienna,LASK Linz,0,3
+Hartberg,Admira,4,1
+Wolfsberger AC,Sturm Graz,0,1
+Salzburg,Mattersburg,4,1
