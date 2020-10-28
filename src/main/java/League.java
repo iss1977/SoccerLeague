@@ -3,12 +3,19 @@ import java.util.ListIterator;
 
 public class League {
     LinkedList<Team> teamTable;
+    LinkedList<Game> gameTable;
 
     public League() {
         teamTable = new LinkedList<Team>();
+        gameTable = new LinkedList<Game>();
     }
 
     public void addGameResult ( Game game){
+
+        // add the Game to gameTable
+        gameTable.add(game);
+
+
         Team teamHome;
         if (teamTable.indexOf(game.getHomeTeam())== -1){ // Team existiert nicht, add
 
@@ -38,6 +45,10 @@ public class League {
     public LinkedList<Team> getTeamTable(){
         return this.teamTable;
     }
+    public LinkedList<Game> getGameTable(){
+        return this.gameTable;
+    }
+
 
 
     public String  listTeamAsTable(){

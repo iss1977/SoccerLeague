@@ -1,3 +1,8 @@
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class Team {
     String name;
     Integer points;
@@ -34,6 +39,25 @@ public class Team {
     public Integer getPoints(){
         return points;
     }
+
+    public Integer getPointsUsingLambda(){
+        Integer points;
+        LinkedList<Game> tempGames = HelloFX.myLeague.getGameTable();
+        List<Game> selectedGames;
+
+        Integer myGoals, otherGoals;
+        myGoals = (newGame.getHomeTeam()==this)?newGame.getGoalsForHomeTeam(): newGame.getGoalsForGuestTeam();
+        otherGoals = (newGame.getHomeTeam()!=this)?newGame.getGoalsForHomeTeam(): newGame.getGoalsForGuestTeam();
+
+
+
+        selectedGames= tempGames.stream()
+                .filter(game->game.getHomeTeam()==this)
+                .collect(Collectors.toList());
+        points= selectedGames.stream().mapToInt(g->1).sum();
+        return points;
+    }
+
 
     public Integer  getGoalDifference(){
         return this.goalsShot-this.goalsReceived;
