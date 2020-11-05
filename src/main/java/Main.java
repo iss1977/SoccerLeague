@@ -4,17 +4,19 @@ import java.util.Scanner; // Import the Scanner class to read text files
 
 
 public class Main {
-    static Main myMain;
-    public static void main(String[] args) {
-        myMain= new Main();
-        readScoreFromFile();
-    }
 
-    public Main(){
+//    static League myLeague;
+    public static void main(String[] args) {
+        League myLeague;
+        myLeague = readScoreFromFile();
+
+//        System.out.println(myLeague.getTeamTable());
+        System.out.println(myLeague.listTeamAsTable());
+
     }
 
     // ----------------------    Read the information from csv file ---------------------------------
-    public static void readScoreFromFile(){
+    public static League readScoreFromFile(){
         String[] res;
         Team teamHome, teamGuest;
         Game gameRead;
@@ -45,8 +47,8 @@ public class Main {
             e.printStackTrace();
         }
 
-        System.out.println(myLeague.getTeamTable());
-        System.out.println(myLeague.listTeamAsTable());
 
+
+        return myLeague;
     }
 }

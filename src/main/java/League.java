@@ -67,17 +67,17 @@ public class League {
 
             sb.append(String.format(" ".repeat(teamNameLenght2)+ "%s"+" ".repeat(28-tempTeam.getName().length()-teamNameLenght2), tempTeam.getName()));
             sb.append("│");
-            sb.append(String.format("%5d   ",tempTeam.getPoints()));
+            sb.append(String.format("%5d   ",tempTeam.getPoints())+"!"+tempTeam.getPointsUsingLambda(this));
             sb.append("│");
             sb.append(String.format("%8d    ",tempTeam.getGoalsShot()));
             sb.append("│");
-            sb.append(String.format("%10d      ",tempTeam.getPoints()));
+            sb.append(String.format("%10d      ",tempTeam.getGoalsReceived()));
             sb.append("│");
             sb.append(String.format("%4d  ",tempTeam.getWins()));
             sb.append("│");
-            sb.append(String.format("%6d   ",tempTeam.getDraws()));
+            sb.append(String.format("%6d   ",tempTeam.getDefeats()));
             sb.append("│");
-            sb.append(String.format("%5d  ",tempTeam.getDefeats()));
+            sb.append(String.format("%5d  ",tempTeam.getDraws()));
             sb.append("│");
 
 
@@ -87,5 +87,7 @@ public class League {
 
         return sb.toString();
     } // end of listTeamAsTable()
+
+
 
 } // end of class Main

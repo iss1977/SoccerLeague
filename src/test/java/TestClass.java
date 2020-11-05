@@ -35,9 +35,40 @@ public class TestClass {
         testLeague.addGameResult(this.testGame); // this should result in modifying attributes in Team .... will check this nou for functionality
 
         // team 1 should receive points .... let's test that
-        assertEquals((long)this.testTeamHome.getGoalsShot(),0L);
+        assertEquals(this.testTeamHome.getGoalsShot(),Integer.valueOf(0));
+        assertEquals(this.testTeamGuest.getGoalsShot(),Integer.valueOf(3));
+        // check if the points are okey ... Home should have 0 points, guest 3 points.
+        assertEquals(this.testTeamHome.getPoints(),Integer.valueOf(0));
+        assertEquals(this.testTeamGuest.getPoints(),Integer.valueOf(3));
+
+        //  --------------     add a new Game and check the results
+        testLeague.addGameResult(new Game(testTeamHome,testTeamGuest,2,1));
+
+        assertEquals(this.testTeamHome.getGoalsShot(),Integer.valueOf(2));
+        assertEquals(this.testTeamGuest.getGoalsShot(),Integer.valueOf(4));
+        // we also check the points.
+        assertEquals(this.testTeamHome.getPoints(),Integer.valueOf(3));
+        assertEquals(this.testTeamGuest.getPoints(),Integer.valueOf(3));
+        //  --------------     END OF TEST add a new Game and check the results
+
+        // --------------- test: add a result as a new team with an existing name.
+        testLeague.addGameResult(new Game(new Team("HomeTeam"),testTeamGuest,1,2));
+
+
+        // goals should be now H:3 (2+1) and G: 4
+        assertEquals(this.testTeamHome.getGoalsShot(),Integer.valueOf(3));
+        assertEquals(this.testTeamGuest.getGoalsShot(),Integer.valueOf(6));
+        // we also check the points.
+        assertEquals(this.testTeamHome.getPoints(),Integer.valueOf(3));
+        assertEquals(this.testTeamGuest.getPoints(),Integer.valueOf(6));
+
+
+
+
 
         assertTrue(true);
+
+        System.out.println( this.testTeamHome.getPointsUsingLambda(this.testLeague) );
     }
 
 

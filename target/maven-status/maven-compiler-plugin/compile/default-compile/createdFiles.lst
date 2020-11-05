@@ -2,4 +2,5 @@ HelloFX.class
 Main.class
 Team.class
 Game.class
+Team$MyGameResults.class
 League.class
